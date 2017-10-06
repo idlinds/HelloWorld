@@ -5,5 +5,5 @@ I'm following the Github tutorial:
 
 https://guides.github.com/activities/hello-world/
 
-to understan how everything works here.
+to understand how everything works here.
 
